@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lucky Pick</string>
+    <string name="numbers_in_pool_text"># of numbers in pool</string>
+    <string name="numbers_to_be_picked_text"># of numbers to be picked</string>
+    <string name="generate_text">Generate</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="results_header_text">Results for %1$d/%2$d</string>
+    <string name="generate_again_text">Generate Again</string>
+    <string name="main_title">May the luck be with you</string>
+</resources>
